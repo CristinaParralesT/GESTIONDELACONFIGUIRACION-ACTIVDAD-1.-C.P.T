@@ -1,4 +1,4 @@
-Hola Mundo
+Hola mundo - versión rama B
 
 Soy Cristina Parrales Toledo.
-Esta es la actividad 1.3 de la materia Gestión de Configuración.
+Esta es la actividad 2.2 de la materia Gestión de Configuración.
