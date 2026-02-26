@@ -1,4 +1,4 @@
-Hola mundo - versión rama A
+Hola mundo - versión final integrada (rama A + rama B)
 
 Soy Cristina Parrales Toledo.
 Esta es la actividad 2.2 de la materia Gestión de Configuración.
